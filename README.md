@@ -28,6 +28,11 @@ This project is ideal for learning full-stack Java development and demonstrates 
 - mysql
 - maven
 - STS
-- deepseek 
+
+- ## Tools
+- Spring tools suite
+- git and github
+- chatgpt (AI)
+
 
 
