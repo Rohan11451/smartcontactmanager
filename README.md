@@ -12,7 +12,7 @@ Secure user authentication
 
 Responsive UI design with Bootstrap
 
-Backend logic implemented with Spring MVC and Hibernate ORM
+Backend logic implemented with Spring Boot and Hibernate JPA
 
 Persistent storage using MySQL
 
